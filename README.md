@@ -2,7 +2,7 @@
 <img src="Thoriso_Khutswane_Official_Photo.jpg" alt="My Profile Picture" style="float: right; width: 200px; height: 200px; object-fit: cover; border-radius: 50%; margin-left: 20px; margin-bottom: 20px;">
 
 ## Data Analyst | Turning messy data into clear business insights
-[My LinkedIn](https://linkedin.com/in/thoriso-khutswane) | [View My Resume](https://drive.google.com/file/d/1BPhPPabUe9ZqfjLFSatkfyRVX0vTmgSh/view?usp=sharing) | [Email Me](khutswanethoriso@gmail.com)
+[My LinkedIn](https://linkedin.com/in/thoriso-khutswane) | [View My Resume](https://drive.google.com/file/d/1BPhPPabUe9ZqfjLFSatkfyRVX0vTmgSh/view?usp=sharing) | [Email Me](mailto:khutswanethoriso@gmail.com)
 
 ---
 
