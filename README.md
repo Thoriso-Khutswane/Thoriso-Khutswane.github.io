@@ -8,13 +8,12 @@
 
 ## 📊 Featured Projects
 
-### 1. Reducing Customer Churn by 10%/ Sales performance project
-**The Problem:** [1 plain-English sentence about what you were trying to solve]/improve sales by 15%
+### 1. Increased risk visibility & risk reporting by 10%
+**The Problem:** Nessus tool scans a large number of systems, making it difficult for risk managers to view all the affected systems in one view
 
-**The Tools Used:** [SQL, Python, Tableau]
+**The Tools Used:** [Nessus,SQL, Power BI]
 
-**The Impact:** [1 sentence explaining the result or business value]/reduced customer chun by 10% resulting in 25% increase in turnover
-
+**The Impact:** Identified vulnerabilities were mitigated in a shot period of time before they cause any hard
 🔗 [View the Dashboard/Summary](link-to-live-dashboard)/powerbidashboard | 💻 [View the Code](https://github.com/Thoriso-Khutswane/dataextraction)
 
 *(Optional: Add a screenshot of your project here later!)*
