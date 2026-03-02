@@ -11,9 +11,9 @@
 ### 1. Increased risk visibility & risk reporting by 10%
 **The Problem:** Nessus tool scans a large number of systems, making it difficult for risk managers to view all the affected systems in one view
 
-**The Tools Used:** [Nessus,SQL, Power BI]
+**The Tools Used:** [Nessus,SQL,Microsoft Excel, Power BI]
 
-**The Impact:** Identified vulnerabilities were mitigated in a shot period of time before they cause any hard
+**The Impact:** Identified vulnerabilities were mitigated in a shot period of time before they cause any harm
 🔗 [View the Dashboard/Summary](link-to-live-dashboard)/powerbidashboard | 💻 [View the Code](https://github.com/Thoriso-Khutswane/dataextraction)
 
 *(Optional: Add a screenshot of your project here later!)*
