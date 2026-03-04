@@ -30,9 +30,7 @@ Created a centralized dashboard connecting Nessus vulnerability data with compan
 - **4 business units** tracked (IT, Finance, Marketing, Health)
 - **OWASP Top 4** vulnerability categories monitored
 
-
-🔗 [View the Dashboard/Summary](link-to-live-dashboard)/powerbidashboard | 💻 [View the Code](https://github.com/Thoriso-Khutswane/cybersecurity-risk-dashboard)
-
+🔗 [View the Dashboard/Summary](link-to-live-dashboard) | 💻 [View the Code](https://github.com/Thoriso-Khutswane/cybersecurity-risk-dashboard)
 *(Optional: Add a screenshot of your project here later!)*
 
 
