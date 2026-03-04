@@ -8,37 +8,36 @@
 
 ## 📊 Featured Projects
 
-### 1. Increased risk visibility & risk reporting by 10%
-**The Problem:** Nessus tool scans a large number of systems, making it difficult for risk managers to view all the affected systems in one view
+## Cybersecurity Risk & Vulnerability Management Dashboard
+**The Problem:** Nessus tool scans a large number of systems, making it difficult for risk managers to view all the affected systems in one setting, making it difficult for risk managers to track and mitigate risks in a timely manner.
+### Project Overview
+- **Role:** IT Risk Data Analyst (Intern, Momentum Group)
+- **Objective:** Develop real-time vulnerability visibility dashboard for risk teams
+- **Impact:** Reduced remediation time from 10-15 days to 72 hours
+- **Duration:** 1 year 2 months
 
-**The Tools Used:** [Nessus,SQL,Microsoft Excel, Power BI]
+### Business Context
+Created a centralized dashboard connecting Nessus vulnerability data with company asset inventory (Critical Servers, DMZ zones, BYOD devices). Enabled risk managers to identify, prioritize, and remediate vulnerabilities faster.
 
-**The Impact:** Identified vulnerabilities were mitigated in a shot period of time before they cause any harm
-🔗 [View the Dashboard/Summary](link-to-live-dashboard)/powerbidashboard | 💻 [View the Code](https://github.com/Thoriso-Khutswane/dataextraction)
+### Skills Demonstrated
+- **SQL Server:** Data modeling, INNER/LEFT JOINs, window functions, CTEs
+- **Power BI:** Multi-page dashboards, DAX formulas, slicers, scheduled refresh
+- **Data Analysis:** Vulnerability prioritization, remediation tracking, OWASP categorization
+
+### Key Metrics
+- **1,000 vulnerabilities** analyzed across 100+ critical servers
+- **88% remediation rate** - 73% mitigated in 72 hours
+- **4 business units** tracked (IT, Finance, Marketing, Health)
+- **OWASP Top 4** vulnerability categories monitored
+
+
+🔗 [View the Dashboard/Summary](link-to-live-dashboard)/powerbidashboard | 💻 [View the Code](https://github.com/Thoriso-Khutswane/cybersecurity-risk-dashboard)
 
 *(Optional: Add a screenshot of your project here later!)*
 
----
 
-### 2. [Project Name: e.g., Automating Sales Reports for Q3]
-**The Problem:** [1 plain-English sentence about what you were trying to solve]
-**The Tools Used:** [e.g., Excel, PowerQuery]
-**The Impact:** [1 sentence explaining the result or business value]
-
-🔗 [View the Dashboard/Summary](link-to-live-dashboard) | 💻 [View the Code](link-to-github-repo)
-
----
-
-### 3. [Project Name: e.g., Analyzing Pizza Delivery Times]
-**The Problem:** [1 plain-English sentence about what you were trying to solve]
-**The Tools Used:** [e.g., Python, Pandas]
-**The Impact:** [1 sentence explaining the result or business value]
-
-🔗 [View the Dashboard/Summary](link-to-live-dashboard) | 💻 [View the Code](link-to-github-repo)
-
----
 
 ## 📬 Let's Connect
-Currently open to Data Analyst roles. I'd love to chat about data, tech, or your favorite coffee roast! 
+Currently open to Data Analyst & cyber security roles. I'd love to chat about data,security, tech, or your favorite coffee roast! 
 
 [Send me an email](khutswanethoriso@gmail.com) to get in touch.
