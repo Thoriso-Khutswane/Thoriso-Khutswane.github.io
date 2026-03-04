@@ -10,7 +10,7 @@
 
 ## 1.Cybersecurity Risk & Vulnerability Management Dashboard  - SQL Server &amp; Power BI
 ### The problem
-Nessus tool scans a large number of systems, making it difficult for risk managers to view all the affected systems in one setting, making it difficult for risk managers to track and mitigate risks in a timely manner.
+Nessus scans generate large volumes of vulnerability data across multiple systems, but the lack of centralized visibility made it difficult for risk managers to quickly identify affected assets, prioritize critical risks, and track remediation progress effectively.
 ### Project Overview
 - **Role:** IT Risk Data Analyst (Intern, Momentum Group)
 - **Objective:** Develop real-time vulnerability visibility dashboard for risk teams
