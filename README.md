@@ -9,7 +9,8 @@
 ## 📊 Featured Projects
 
 ## 1.Cybersecurity Risk & Vulnerability Management Dashboard  - SQL Server &amp; Power BI
-**The Problem:** Nessus tool scans a large number of systems, making it difficult for risk managers to view all the affected systems in one setting, making it difficult for risk managers to track and mitigate risks in a timely manner.
+### The problem
+Nessus tool scans a large number of systems, making it difficult for risk managers to view all the affected systems in one setting, making it difficult for risk managers to track and mitigate risks in a timely manner.
 ### Project Overview
 - **Role:** IT Risk Data Analyst (Intern, Momentum Group)
 - **Objective:** Develop real-time vulnerability visibility dashboard for risk teams
