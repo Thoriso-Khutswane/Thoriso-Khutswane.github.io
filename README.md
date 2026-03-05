@@ -13,8 +13,8 @@
 
 **The Tools Used:** [SQL,Power BI ]
 
-**The Impact:** -[Reduced remediation time from 10-15 days to 72 hours, ]
-                -[**88% remediation rate**,73% risks mitigated in 72 hours]
+**The Impact:**  ### -[Reduced remediation time from 10-15 days to 72 hours, ]
+                ###-[**88% remediation rate**,73% risks mitigated in 72 hours]
                 -[Patches and upgrades applied on time on legacy systems(old)]
                 - Prevented the organization from ransomewares
 
