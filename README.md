@@ -4,32 +4,21 @@
 ## Data Analyst | Turning messy data into clear business insights
 [My LinkedIn](https://linkedin.com/in/thoriso-khutswane) | [View My Resume](https://drive.google.com/file/d/1BPhPPabUe9ZqfjLFSatkfyRVX0vTmgSh/view?usp=sharing) | [Email Me](mailto:khutswanethoriso@gmail.com)
 
----
+
 
 ## 📊 Featured Projects
 
-## 1.Cybersecurity Risk & Vulnerability Management Dashboard  - SQL Server &amp; Power BI
-### The problem
-Nessus scans generate large volumes of vulnerability data across multiple systems, but the lack of centralized visibility made it difficult for risk managers to quickly identify affected assets, prioritize critical risks, and track remediation progress effectively.
-### Project Overview
-- **Role:** IT Risk Data Analyst (Intern, Momentum Group)
-- **Objective:** Develop real-time vulnerability visibility dashboard for risk teams
-- **Impact:** Reduced remediation time from 10-15 days to 72 hours
-- **Duration:** 1 year 2 months
+### 1. Cybersecurity Risk & Vulnerability Management Dashboard 
+**The Problem:** [Nessus scans generate large volumes of vulnerability data across multiple systems, but the lack of centralized visibility made it difficult for risk managers to quickly identify affected assets, prioritize critical risks, and track remediation progress effectively.]
 
-### Business Context
-Created a centralized dashboard connecting Nessus vulnerability data with company asset inventory (Critical Servers, DMZ zones, BYOD devices). Enabled risk managers to identify, prioritize, and remediate vulnerabilities faster.
+**The Tools Used:** [SQL,Power BI ]
 
-### Skills Demonstrated
-- **SQL Server:** Data modeling, INNER/LEFT JOINs, window functions, CTEs
-- **Power BI:** Multi-page dashboards, DAX formulas, slicers, scheduled refresh
-- **Data Analysis:** Vulnerability prioritization, remediation tracking, OWASP categorization
+**The Impact:** -[Reduced remediation time from 10-15 days to 72 hours, ]
+                -[**88% remediation rate**,73% risks mitigated in 72 hours]
+                -[Patches and upgrades applied on time on legacy systems(old)]
+                - Prevented the organization from ransomewares
 
-### Key Metrics
-- **1,000 vulnerabilities** analyzed across 100+ critical servers
-- **88% remediation rate** - 73% mitigated in 72 hours
-- **4 business units** tracked (IT, Finance, Marketing, Health)
-- **OWASP Top 4** vulnerability categories monitored
+
 
 🔗 [View the Dashboard/Summary](link-to-live-dashboard) | 💻 [View the Code](https://github.com/Thoriso-Khutswane/cybersecurity-risk-dashboard)
 *(Optional: Add a screenshot of your project here later!)*
