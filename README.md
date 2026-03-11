@@ -19,7 +19,7 @@
 
 
 🔗 [View the Dashboard/Summary](<iframe width="1000" height="600"
-src="https://app.powerbi.com/view?r=XXXXXXXX"
+src="<iframe title="CyberSecurityRisk&VulnerabiltyVisibilityDashboard2" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=4b2ef5c2-c3d1-47c2-95a2-57cf6e11b789&autoAuth=true&ctid=b14d86f1-83ba-4b13-a702-b5c0231b9337" frameborder="0" allowFullScreen="true"></iframe>"
 frameborder="0"
 allowFullScreen="true"></iframe>) | 💻 [View the Code](https://github.com/Thoriso-Khutswane/cybersecurity-risk-dashboard)
 *(Optional: Add a screenshot of your project here later!)*
