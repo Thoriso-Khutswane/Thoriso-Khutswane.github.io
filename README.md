@@ -15,7 +15,12 @@
 
 **The Impact:**  Reduced remediation time from 10-15 days to 72 hours,**88% remediation rate**, **73% risks mitigated in 72 hours**, Patches and upgrades applied on time on legacy systems(old),Prevented the organization from ransomewares
 
-🔗 [Download & View The Dashboard On Power BI Desktop](https://drive.google.com/file/d/1LqfUggS6fVaPZXq-9UUOVjObnp_9kVHh/view?usp=sharing) | 💻 [View The Project Code](https://github.com/Thoriso-Khutswane/cybersecurity-risk-dashboard/tree/main)
+🔗 [Download & View The Dashboard On Power BI Desktop](https://drive.google.com/file/d/1LqfUggS6fVaPZXq-9UUOVjObnp_9kVHh/view?usp=sharing) 
+
+<p align="center">
+ https://github.com/Thoriso-Khutswane/PrivateImagesForAllRepos/blob/main/ExecutiveOverview.png
+</p>
+| 💻 [View The Project Code](https://github.com/Thoriso-Khutswane/cybersecurity-risk-dashboard/tree/main)
 
 
 
