@@ -20,17 +20,15 @@
 
 
 
-
-<img src="https://github.com/Thoriso-Khutswane/PrivateImagesForAllRepos/blob/main/ExecutiveOverview.png" alt="Profile Picture" align="left" width="120" style="margin-right:15px;">
-
+<p align="center">
+  <img src="https://github.com/Thoriso-Khutswane/PrivateImagesForAllRepos/blob/main/ExecutiveOverview.png" alt="Profile Picture" width="150">
+</p>
 
 
 ## 📬 Let's Connect
 Currently open to Data Analyst(All Industries) & cyber security roles and IT Internships. I'd love to chat about data,security, tech, or your favorite coffee roast! 
 
 [Send me an email](khutswanethoriso@gmail.com) to get in touch.
-
-
 
 
 
