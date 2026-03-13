@@ -25,6 +25,11 @@
 
 
 
+
+
+
+
+
 ## 📬 Let's Connect
 Currently open to Data Analyst(All Industries) & cyber security roles and IT Internships. I'd love to chat about data,security, tech, or your favorite coffee roast! 
 
