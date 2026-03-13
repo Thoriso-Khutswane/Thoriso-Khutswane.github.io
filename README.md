@@ -18,10 +18,11 @@
 🔗 [Download & View The Dashboard On Power BI Desktop](https://drive.google.com/file/d/1LqfUggS6fVaPZXq-9UUOVjObnp_9kVHh/view?usp=sharing) | 💻 [View The Project Code](https://github.com/Thoriso-Khutswane/cybersecurity-risk-dashboard/tree/main)
 
 
-
 <p align="center">
-  <img src="ExecutiveOverview.png" width="700" height="400">
+  <img src="https://raw.githubusercontent.com/Thoriso-Khutswane/Risk-Vulnerability-Management-Visibility-Dashboard/main/ExecutiveOverview.png" width="700" height="400">
 </p>
+
+
 
 
 ## 📬 Let's Connect
