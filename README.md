@@ -19,7 +19,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Thoriso-Khutswane/Risk-Vulnerability-Management-Visibility-Dashboard/main/ExecutiveOverview.png" width="700" height="400">
+  <img src="https://raw.githubusercontent.com/Thoriso-Khutswane/Risk-Vulnerability-Management-Visibility-Dashboard/main/ExecutiveOverview.png" width="700" height="200">
 </p>
 
 
