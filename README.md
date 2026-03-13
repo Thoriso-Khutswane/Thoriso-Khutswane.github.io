@@ -21,7 +21,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Thoriso-Khutswane/PrivateImagesForAllRepos/blob/main/ExecutiveOverview.png" alt="Profile Picture" width="150">
+  <img src="https://github.com/Thoriso-Khutswane/Risk-Vulnerability-Management-Visibility-Dashboard/blob/main/ExecutiveOverview.png" alt="Profile Picture" width="150">
 </p>
 
 
