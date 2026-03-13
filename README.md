@@ -17,8 +17,10 @@
 
 🔗 [Download & View The Dashboard On Power BI Desktop](https://drive.google.com/file/d/1LqfUggS6fVaPZXq-9UUOVjObnp_9kVHh/view?usp=sharing) | 💻 [View The Project Code](https://github.com/Thoriso-Khutswane/cybersecurity-risk-dashboard/tree/main)
 
+<img src="https://github.com/Thoriso-Khutswane/PrivateImagesForAllRepos/blob/main/ExecutiveOverview.png" alt="Profile Picture" align="left" width="120" style="margin-right:15px;">
 
-https://github.com/Thoriso-Khutswane/PrivateImagesForAllRepos/blob/main/ExecutiveOverview.png
+
+
 
 
 
