@@ -23,7 +23,7 @@ Without a centralized view, vulnerability data is often scattered across reports
 
 As a result, security teams may struggle to efficiently analyze vulnerability data and respond to risks in a timely manner.
 
-**The Tools Used:** [SQL,Power BI ]
+**The Tools Used:** SQL,Power BI,Excel,Python 
 
 **The Impact:**  Reduced remediation time from 10-15 days to 72 hours,**88% remediation rate**, **73% risks mitigated in 72 hours**, Patches and upgrades applied on time on legacy systems(old),Prevented the organization from ransomewares
 
