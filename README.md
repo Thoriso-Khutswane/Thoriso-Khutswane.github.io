@@ -8,7 +8,7 @@
 
 ## 📊 Featured Projects
 
-### 1. Cybersecurity Risk & Vulnerability Management Dashboard(In progress)
+### 1. Cybersecurity Risk & Vulnerability Management Dashboard <small>(In progress)</small>
 **The Problem:** [Nessus generate large volumes of vulnerability data obtained by conducting scans across multiple systems, but the lack of centralized visibility made it difficult for risk managers to quickly identify affected assets, prioritize critical risks, and track remediation progress effectively.]
 
 **The Tools Used:** [SQL,Power BI ]
