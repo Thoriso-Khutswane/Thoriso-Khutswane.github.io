@@ -15,11 +15,12 @@
 
 Without a centralized view, vulnerability data is often scattered across reports and spreadsheets. This lack of visibility makes it challenging to:
  <span style="font-size:50%;">
-•	Identify which assets are most vulnerable
-•	Prioritize critical security risks
-•	Monitor remediation progress across systems
-•	Understand the overall security posture of the organization
+ - Identify which assets are most vulnerable
+ - Prioritize critical security risks
+ - Monitor remediation progress across systems
+ - Understand the overall security posture of the organization
 </span>
+
 As a result, security teams may struggle to efficiently analyze vulnerability data and respond to risks in a timely manner.
 
 **The Tools Used:** [SQL,Power BI ]
