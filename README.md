@@ -8,13 +8,13 @@
 
 ## 📊 Featured Projects
 
-### 1. Cybersecurity Risk & Vulnerability Management Dashboard <span style="font-size:30%;">(In progress)</span>
+### 1. Cybersecurity Risk & Vulnerability Management Dashboard <span style="font-size:50%;">(In progress)</span>
 
 
-**The Problem:** Organizations often conduct regular vulnerability scans using tools like Nessus to identify security weaknesses across servers, network zones, and endpoint devices. However, these scans generate large volumes of vulnerability data, making it difficult for risk managers and security teams to quickly interpret the results.
+**The Problem:**  <span style="font-size:50%;">Organizations often conduct regular vulnerability scans using tools like Nessus to identify security weaknesses across servers, network zones, and endpoint devices. However, these scans generate large volumes of vulnerability data, making it difficult for risk managers and security teams to quickly interpret the results.
 
 Without a centralized view, vulnerability data is often scattered across reports and spreadsheets. This lack of visibility makes it challenging to:
- <span style="font-size:50%;">
+
  - Identify which assets are most vulnerable
  - Prioritize critical security risks
  - Monitor remediation progress across systems
@@ -29,7 +29,7 @@ As a result, security teams may struggle to efficiently analyze vulnerability da
 
 🔗 [Download & View The Dashboard On Power BI Desktop](https://drive.google.com/file/d/1LqfUggS6fVaPZXq-9UUOVjObnp_9kVHh/view?usp=sharing) | 💻 [View The Project Code](https://github.com/Thoriso-Khutswane/cybersecurity-risk-dashboard/tree/main)
 
-
+</span>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Thoriso-Khutswane/Risk-Vulnerability-Management-Visibility-Dashboard/main/ExecutiveOverview.png" width="400" height="200">
 </p>
