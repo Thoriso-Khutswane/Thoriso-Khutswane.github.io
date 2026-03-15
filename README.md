@@ -8,7 +8,7 @@
 
 ## 📊 Featured Projects
 
-### 1. Cybersecurity Risk & Vulnerability Management Dashboard <span style="font-size:50%;">(In progress)</span>
+### 1. Cybersecurity Risk & Vulnerability Management Dashboard <span style="font-size:70%;">(In progress)</span>
 
 
 **The Problem:**  Organizations often conduct regular vulnerability scans using tools like Nessus to identify security weaknesses across servers, network zones, and endpoint devices. However, these scans generate large volumes of vulnerability data, making it difficult for risk managers and security teams to quickly interpret the results. </span>
