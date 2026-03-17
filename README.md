@@ -29,11 +29,11 @@ As a result, security teams may struggle to efficiently analyze vulnerability da
 
 The solution delivered measurable cybersecurity improvements:
 
-⏱️ Reduced remediation time from 10–15 days → 72 hours
-📉 Increased remediation rate achieved across scanned assets
-🔐 Critical risks mitigated within 72 hours
-🖥️ Legacy systems patched on schedule, reducing attack surface
-🛡️ Increased resilience against ransomware and critical vulnerabilities by enabling earlier detection & action
+- ⏱️ Reduced remediation time from 10–15 days → 72 hours
+- 📉 88% remediation rate achieved across scanned assets
+- 🔐 Critical risks mitigated within 72 hours
+- 🖥️ Legacy systems patched on schedule, reducing attack surface
+- 🛡️ Increased resilience against ransomware and critical vulnerabilities by enabling earlier detection & action
 
 🔗 [Download & View The Dashboard On Power BI Desktop](https://drive.google.com/file/d/1LqfUggS6fVaPZXq-9UUOVjObnp_9kVHh/view?usp=sharing) | 💻 [View The Project Code](https://github.com/Thoriso-Khutswane/cybersecurity-risk-dashboard/tree/main)
 
