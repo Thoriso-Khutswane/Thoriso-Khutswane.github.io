@@ -25,7 +25,7 @@ As a result, security teams may struggle to efficiently analyze vulnerability da
 **The Tools Used:** SQL,Power BI,Excel,Python 
 
 **The Impact:**
-The solution delivered measurable cybersecurity improvements:
+The solution delivered measurable cybersecurity improvements
 
 - ⏱️ Reduced remediation time from 10–15 days → 72 hours
 - 📉 88% remediation rate achieved across scanned assets
