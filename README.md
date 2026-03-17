@@ -26,7 +26,9 @@ As a result, security teams may struggle to efficiently analyze vulnerability da
 
 **The Impact:**
 
+
 The solution delivered measurable cybersecurity improvements:
+
 ⏱️ Reduced remediation time from 10–15 days → 72 hours
 📉 Increased remediation rate achieved across scanned assets
 🔐 Critical risks mitigated within 72 hours
