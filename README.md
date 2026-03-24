@@ -36,8 +36,8 @@ The solution delivered measurable cybersecurity improvements
 <p align="center">
   <img src="https://raw.githubusercontent.com/Thoriso-Khutswane/Risk-Vulnerability-Management-Visibility-Dashboard/main/ExecutiveOverview.png" width="400" height="200">
 </p>
-This year, I will be embarking on a journey of discovery. I plan to explore data analysis across a variety of industries, not only within Information Technology. My focus areas will include health, retail, e‑commerce, and the banking sector.
-This will not simply be a series of projects—it will be a comprehensive learning journey. I will start with the foundational concepts and progressively advance my skills over time
+
+**This year, I will be embarking on a journey of discovery. I plan to explore data analysis across a variety of industries, not only within Information Technology. My focus areas will include health, retail, e‑commerce, and the banking sector. This will not simply be a series of projects, it will be a comprehensive learning journey. I will start with the foundational concepts and progressively advance my skills over time**.
 
 ### 1. Telecom Company's Customer Churn Analysis
 
