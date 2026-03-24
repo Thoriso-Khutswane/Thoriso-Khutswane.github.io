@@ -45,6 +45,13 @@ The solution delivered measurable cybersecurity improvements
 Right now, the business doesn’t have a clear understanding of which customers are leaving or why they are leaving. Because of this lack of insight, the company cannot create effective plans to keep customers or predict when others might leave in the future.
 
 <span style="color: #91E200;">**The Impact:**</span>This project gives the company a clearer understanding of why customers are leaving. It shows which groups of customers are most at risk, how much revenue is being lost, and the main reasons people decide to stop using the service—such as the type of contract they have or how long they’ve been a customer. These insights help the business make better decisions, improve customer loyalty, and protect future revenue.
+
+🔗 [Download & View The Dashboard On Power BI Desktop]() | 💻 [View The Project Code]()
+
+<p align="center">
+  <img src="" width="400" height="200">
+</p>
+
 ## 📬 Let's Connect
 Currently open to Data Analyst(All Industries) & cyber security roles and IT Internships. I'd love to chat about data,security, tech, or your favorite coffee roast! 
 
