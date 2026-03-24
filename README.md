@@ -49,7 +49,7 @@ Right now, the business doesn’t have a clear understanding of which customers 
 🔗 [Download & View The Dashboard On Power BI Desktop]() | 💻 [View The Project Code]()
 
 <p align="center">
-  <img src="" width="400" height="200">
+  <img src="https://raw.githubusercontent.com/Thoriso-Khutswane/Customer-Churn-Analysis/main/images/ExecutiveOverview2.png" width="400" height="200">
 </p>
 
 ## 📬 Let's Connect
