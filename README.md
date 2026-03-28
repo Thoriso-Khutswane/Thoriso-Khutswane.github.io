@@ -44,6 +44,8 @@ The solution delivered measurable cybersecurity improvements
 <span style="color: red;">**The Problem:** </span>The company is losing customers at a steady rate, which is causing revenue to drop and reducing the long‑term value each customer brings.
 Right now, the business doesn’t have a clear understanding of which customers are leaving or why they are leaving. Because of this lack of insight, the company cannot create effective plans to keep customers or predict when others might leave in the future.
 
+**The Tools Used:** SQL,Power BI,Excel,SSMS
+
 <span style="color: #91E200;">**The Impact:**</span>This project gives the company a clearer understanding of why customers are leaving. It shows which groups of customers are most at risk, how much revenue is being lost, and the main reasons people decide to stop using the service—such as the type of contract they have or how long they’ve been a customer. These insights help the business make better decisions, improve customer loyalty, and protect future revenue.
 
 🔗 [Download & View The Dashboard On Power BI Desktop]() | 💻 [View The Project Code](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/tree/main)
