@@ -35,7 +35,7 @@ Right now, the business doesn’t have a clear understanding of which customers 
 
 <span style="color: #91E200;">**The Impact:**</span>This project gives the company a clearer understanding of why customers are leaving. It shows which groups of customers are most at risk, how much revenue is being lost, and the main reasons people decide to stop using the service—such as the type of contract they have or how long they’ve been a customer. These insights help the business make better decisions, improve customer loyalty, and protect future revenue.
 
-🔗 [Download & View The Dashboard On Power BI Desktop]() | 💻 [View The Project Code](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/tree/main)
+🔗 [Download & View The Dashboard On Power BI Desktop](https://drive.google.com/file/d/1y2HruON42oaAWpH6ENU5Y_iN1eom1WD9/view?usp=sharing) | 💻 [View The Project Code](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/tree/main)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Thoriso-Khutswane/Customer-Churn-Analysis/main/images/ExecutiveOverview2.png" width="400" height="200">
