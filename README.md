@@ -42,7 +42,7 @@ Right now, the business doesn’t have a clear understanding of which customers 
 </p>
 
 ## 📬 Let's Connect
-Currently open to Data Analyst(All Industries) & cyber security roles and IT Internships. I'd love to chat about data,security, tech, or your favorite coffee roast! 
+Currently open to Data Analyst(All Industries), Cyber Security roles and IT Internships. I'd love to chat about data,security, tech, or your favorite coffee pods! 
 
 [Send me an email](khutswanethoriso@gmail.com) to get in touch.
 
