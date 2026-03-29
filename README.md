@@ -15,7 +15,7 @@
 
 **The Tools Used:** SQL,Power BI,Excel,Python 
 
-<span style="color: #91E200;"> **The Impact:** </span> The solution delivered measurable cybersecurity improvements reduced remediation time from 10–15 days to 72 hours, 88% remediation rate achieved across scanned assets , critical risks mitigated within 72 hours,  Legacy systems patched on schedule, reducing attack surface, increased resilience against ransomware and critical vulnerabilities by enabling earlier detection & action
+<span style="color: #91E200;"> **The Impact:** </span> The solution delivered measurable cybersecurity improvements such as reducing remediation time from 10–15 days to 72 hours, archiving 88% remediation rate across scanned assets , critical risks mitigated within 72 hours,  Legacy systems patched on schedule, reducing attack surface, increased resilience against ransomware and critical vulnerabilities by enabling earlier detection & action
 
 🔗 [Download & View The Dashboard On Power BI Desktop](https://drive.google.com/file/d/1LqfUggS6fVaPZXq-9UUOVjObnp_9kVHh/view?usp=sharing) | 💻 [View The Project Code](https://github.com/Thoriso-Khutswane/cybersecurity-risk-dashboard/tree/main)
 
