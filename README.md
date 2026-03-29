@@ -26,7 +26,7 @@
 
 <span style="color: green;">This year, I will be embarking on a journey of discovery. I plan to explore data analysis across a variety of industries, not only within Information Technology. My focus areas will include health, retail, e‑commerce, and the banking sector. This will not simply be a series of projects, it will be a comprehensive learning journey. I will start with the foundational concepts and progressively advance my skills over time.</span>
 
-### 2. Telecom Company's Customer Churn Analysis
+### 2. Telecom Customer Churn Analysis
 
 <span style="color: red;">**The Problem:** </span>The company is losing customers at a steady rate, which is causing revenue to drop and reducing the long‑term value each customer brings.
 Right now, the business doesn’t have a clear understanding of which customers are leaving or why they are leaving. Because of this lack of insight, the company cannot create effective plans to keep customers or predict when others might leave in the future.
