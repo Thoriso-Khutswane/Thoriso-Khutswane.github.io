@@ -47,7 +47,10 @@ Currently open to Data Analyst(All Industries), Cyber Security roles and IT Inte
 [Send me an email](khutswanethoriso@gmail.com) to get in touch.
 
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="thoriso-khutswane" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://za.linkedin.com/in/thoriso-khutswane?trk=profile-badge">THORISO KHUTSWANE</a></div>
+              
 
 
 
