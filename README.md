@@ -43,7 +43,7 @@ Right now, the business doesn’t have a clear understanding of which customers 
 
 
 
-### 3.BI-Driven Risk Assessment Framework for Organizations
+### 3.BI-Driven Risk Assessment Framework for Organizations(InProgress)
 
 <span style="color: red;">**The Problem:** </span>Traditional risk assessment methods are often manual(spreadsheet), time consuming, and largely reactive rather than proactive. They rely heavily on periodic reviews, static reports, and historical data, which limits their ability to detect emerging risks as conditions change. As a result, organizations lack real‑time insights into evolving riks, reducing their capacity to respond quickly, prevent incidents, and make informed decisions. This gap increases exposure to operational, financial, and compliance risks in fast moving and complex environments.
 
