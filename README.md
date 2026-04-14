@@ -57,7 +57,8 @@ Right now, the business doesn’t have a clear understanding of which customers 
   <img src="">
 </p>
 
-
+https://www.youtube.com/embed/uyO_Mryz528
+<iframe width="951" height="535" src="https://www.youtube.com/embed/uyO_Mryz528" title="BI(Business Intelligence)-driven Risk Register Application Walkthrough" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 📬 Let's Connect
 Currently open to Data Analyst(All Industries), Cyber Security roles and IT Internships. I'd love to chat about data,security, tech, or your favorite coffee pods! 
