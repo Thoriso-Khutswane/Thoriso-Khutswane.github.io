@@ -24,7 +24,6 @@
   <img src="https://raw.githubusercontent.com/Thoriso-Khutswane/Risk-Vulnerability-Management-Visibility-Dashboard/main/ExecutiveOverview.png" width="400" height="200">
 </p>
 
-<span style="color: green;">This year, I will be embarking on a journey of discovery. I plan to explore data analysis across a variety of industries, not only within Information Technology. My focus areas will include health, retail, e‑commerce, and the banking sector. This will not simply be a series of projects, it will be a comprehensive learning journey. I will start with the foundational concepts and progressively advance my skills over time.</span>
 
 ### 2. Telecom Company's Customer Churn Analysis
 
@@ -41,7 +40,11 @@ Right now, the business doesn’t have a clear understanding of which customers 
   <img src="https://raw.githubusercontent.com/Thoriso-Khutswane/Customer-Churn-Analysis/main/images/ExecutiveOverview2.png" width="400" height="200">
 </p>
 
-[![View More Projects](https://img.shields.io/badge/View-More%20Projects-blue?style=for-the-badge)]()
+<p align="center">
+  <a href="">
+    <img src="https://img.shields.io/badge/View-More%20Projects-blue?style=for-the-badge" />
+  </a>
+</p>
 
 ## 📬 Let's Connect
 Currently open to Data Analyst(All Industries), Cyber Security roles and IT Internships. I'd love to chat about data,security, tech, or your favorite coffee pods! 
