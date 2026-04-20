@@ -41,7 +41,7 @@ Right now, the business doesn’t have a clear understanding of which customers 
 </p>
 
 <p align="center">
-  <a href="">
+  <a href="https://github.com/Thoriso-Khutswane/Thoriso-Khutswane-More-Projects-Page.github.io">
     <img src="https://img.shields.io/badge/View-More%20Projects-blue?style=for-the-badge" />
   </a>
 </p>
