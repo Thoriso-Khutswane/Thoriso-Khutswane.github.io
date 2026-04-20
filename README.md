@@ -41,7 +41,7 @@ Right now, the business doesn’t have a clear understanding of which customers 
   <img src="https://raw.githubusercontent.com/Thoriso-Khutswane/Customer-Churn-Analysis/main/images/ExecutiveOverview2.png" width="400" height="200">
 </p>
 
-[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)]()
+[![View More Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)]()
 
 ## 📬 Let's Connect
 Currently open to Data Analyst(All Industries), Cyber Security roles and IT Internships. I'd love to chat about data,security, tech, or your favorite coffee pods! 
