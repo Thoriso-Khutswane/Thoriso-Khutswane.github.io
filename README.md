@@ -2,7 +2,7 @@
 <img src="Thoriso_Khutswane_Official_Photo.jpg" alt="My Profile Picture" style="float: right; width: 200px; height: 200px; object-fit: cover; border-radius: 50%; margin-left: 20px; margin-bottom: 20px;">
 
 ## Data & Security Analyst | Turning security findings and complex data into actionable business insights
-[My LinkedIn](https://linkedin.com/in/thoriso-khutswane) | [View My Resume](https://drive.google.com/file/d/1imJW-NCCOQVXNF-ICz-ubKvQnt5wgMbT/view?usp=sharing) | [Email Me](mailto:khutswanethoriso@gmail.com)
+[My LinkedIn](https://linkedin.com/in/thoriso-khutswane) | [View My Resume](https://drive.google.com/file/d/15jhX7QHXOjDLZCueDspp6Ya3f00u1ofg/view?usp=sharing) | [Email Me](mailto:khutswanethoriso@gmail.com)
 
 
 
