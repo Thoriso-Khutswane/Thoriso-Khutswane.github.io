@@ -40,6 +40,8 @@
   <img src="https://raw.githubusercontent.com/Thoriso-Khutswane/lenacapavir-hiv-prevention-project/main/imgs/ExecutiveOverview.png" width="400" height="200">
 </p>
 
+
+[![View More Projects](https://img.shields.io/badge/View%20My%20Projects-cc0000?style=for-the-badge&logo=github&logo
  
 ## 📬 Let's Connect
 Currently open to Data Analyst(All Industries), Cyber Security roles and IT Internships. I'd love to chat about data,security, tech, or your favorite coffee pods! 
