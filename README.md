@@ -25,27 +25,22 @@
 </p>
 
 
-### 2. Telecom Company's Customer Churn Analysis
 
-<span style="color: red;">**The Problem:** </span>The company is losing customers at a steady rate, which is causing revenue to drop and reducing the long‑term value each customer brings.
-Right now, the business doesn’t have a clear understanding of which customers are leaving or why they are leaving. Because of this lack of insight, the company cannot create effective plans to keep customers or predict when others might leave in the future.
+### 2. Lenacapavir Eligibility Dashboard
 
-**The Tools Used:** SQL,Power BI,Excel,SSMS
+<span style="color: red;">**The Problem:** </span> : Lenacapavir offers strong prevention potential, but gaps in data on eligibility, patient demand, staff readiness, and supply limit effective rollout. Without clear insights, resources risk being misallocated—overstocking low-need sites and underserving high-demand areas. Closing these gaps is critical to reach the right patients and scale the program successfully.
 
-<span style="color: #91E200;">**The Impact:**</span>This project gives the company a clearer understanding of why customers are leaving. It shows which groups of customers are most at risk, how much revenue is being lost, and the main reasons people decide to stop using the service—such as the type of contract they have or how long they’ve been a customer. These insights help the business make better decisions, improve customer loyalty, and protect future revenue.
 
-🔗 [Download & View The Dashboard On Power BI Desktop](https://drive.google.com/file/d/1y2HruON42oaAWpH6ENU5Y_iN1eom1WD9/view?usp=sharing) | 💻 [View The Project Code](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/tree/main)
+<span style="color: #91E200;"> **The Impact:** </span>  Implementing the project ensures the right doses reach the right facilities, improving efficiency and access. It drives higher uptake among priority groups, strengthens follow-up care, and accelerates reductions in new HIV infections. 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Thoriso-Khutswane/Customer-Churn-Analysis/main/images/ExecutiveOverview2.png" width="400" height="200">
-</p>
+🔗 [Download & View The Dashboard On Power BI Desktop]() | 💻 [View The Project Code](https://github.com/Thoriso-Khutswane/lenacapavir-hiv-prevention-project)
+
 
 <p align="center">
-  <a href="https://thoriso-khutswane.github.io/More-Projects/">
-    <img src="https://img.shields.io/badge/View-More%20Projects-blue?style=for-the-badge" />
-  </a>
+  <img src="https://github.com/Thoriso-Khutswane/lenacapavir-hiv-prevention-project/blob/main/imgs/ExecutiveOverview.png" width="400" height="200">
 </p>
 
+ 
 ## 📬 Let's Connect
 Currently open to Data Analyst(All Industries), Cyber Security roles and IT Internships. I'd love to chat about data,security, tech, or your favorite coffee pods! 
 
