@@ -49,7 +49,7 @@
 ``
 
 ## 📬 Let's Connect
-Currently open to Data Analyst(All Industries), Cyber Security roles and IT Internships. I'd love to chat about data,security, tech, or your favorite coffee pods! 
+Currently open to Data/Analytics roles  and Cybersecurity roles (All Industries). I'd love to chat about data,IT security, tech, or your favorite coffee pods! 
 
 [Send me an email](khutswanethoriso@gmail.com) to get in touch.
 
