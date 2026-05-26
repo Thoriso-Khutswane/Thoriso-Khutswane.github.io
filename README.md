@@ -30,6 +30,8 @@
 
 <span style="color: red;">**The Problem:** </span> : Lenacapavir offers strong prevention potential, but gaps in data on eligibility, patient demand, staff readiness, and supply limit effective rollout. Without clear insights, resources risk being misallocated—overstocking low-need sites and underserving high-demand areas. Closing these gaps is critical to reach the right patients and scale the program successfully.
 
+**The Tools Used:** Microsoft Fabric, Microsoft Power BI, Apache Spark(Spark SQL & PySpark), Dax
+
 
 <span style="color: #91E200;"> **The Impact:** </span>  Implementing the project ensures the right doses reach the right facilities, improving efficiency and access. It drives higher uptake among priority groups, strengthens follow-up care, and accelerates reductions in new HIV infections. 
 
