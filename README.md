@@ -41,8 +41,13 @@
 </p>
 
 
-[![View More Projects](https://img.shields.io/badge/View%20My%20Projects-cc0000?style=for-the-badge&logo=github&logo
- 
+<p align="center">
+  <a href="https://github.com/Thoriso-Khutswane/More-Projects">
+    <img src="https://img.shields.io/badge/View%20More%20Projects-cc0000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+``
+
 ## 📬 Let's Connect
 Currently open to Data Analyst(All Industries), Cyber Security roles and IT Internships. I'd love to chat about data,security, tech, or your favorite coffee pods! 
 
