@@ -33,7 +33,7 @@
 
 <span style="color: #91E200;"> **The Impact:** </span>  Implementing the project ensures the right doses reach the right facilities, improving efficiency and access. It drives higher uptake among priority groups, strengthens follow-up care, and accelerates reductions in new HIV infections. 
 
-🔗 [Download & View The Dashboard On Power BI Desktop]() | 💻 [View The Project Code](https://github.com/Thoriso-Khutswane/lenacapavir-hiv-prevention-project)
+💻 [View The Project Code](https://github.com/Thoriso-Khutswane/lenacapavir-hiv-prevention-project)
 
 
 <p align="center">
