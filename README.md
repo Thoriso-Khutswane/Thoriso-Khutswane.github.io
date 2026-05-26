@@ -37,7 +37,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Thoriso-Khutswane/lenacapavir-hiv-prevention-project/blob/main/imgs/ExecutiveOverview.png" width="400" height="200">
+  <img src="https://raw.githubusercontent.com/Thoriso-Khutswane/lenacapavir-hiv-prevention-project/main/imgs/ExecutiveOverview.png" width="400" height="200">
 </p>
 
  
