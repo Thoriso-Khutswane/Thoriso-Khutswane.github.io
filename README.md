@@ -44,7 +44,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/Thoriso-Khutswane/More-Projects">
+  <a href="https://thoriso-khutswane.github.io/More-Projects/">
     <img src="https://img.shields.io/badge/View%20More%20Projects!-cc0000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
